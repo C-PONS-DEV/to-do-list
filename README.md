@@ -22,6 +22,7 @@ Installation:
      - Open in your browser http://localhost:3000/
  
 Setting :
+
     - In the 'src' folder open the file 'axios-firebase.js' and modify the link to your database to give firebase.
     
 Features :
